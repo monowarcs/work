@@ -73,6 +73,6 @@ A final-year Computer Science and Engineering student specializing in Software E
 
 ## GitHub Stats 📊
 ![](https://github-readme-stats.vercel.app/api?username=monowarislamcs)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monowarislamcs)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monowarislamcs)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=monowarislamcs)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monowarcs)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monowarcs)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=monowarcs)
